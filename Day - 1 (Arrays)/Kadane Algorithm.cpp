@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 // Find max contiguous subarray
 
 int maxSubArray(vector<int> &nums)

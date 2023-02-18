@@ -1,4 +1,5 @@
-
+#include <bits/stdc++.h>
+using namespace std;
 // https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 // Yash Vardhan Shankhdhar
 
